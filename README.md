@@ -102,6 +102,8 @@ Stay tuned!
 
 💼 **LinkedIn:** https://www.linkedin.com/in/arielle-60178832a/
 
+🌐 **Website:** https://arielle-sedoineapp-vosyn2.vercel.app/
+
 ---
 
 <div align="center">
